@@ -20,7 +20,7 @@ function App() {
   const STYLE = {
     fontSize: '24px',
     color: 'orange',
-    backgroundcolor: 'yellow'
+    backgroundColor: 'yellow'
   };
 
   // 변수
